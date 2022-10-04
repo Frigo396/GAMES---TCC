@@ -3,7 +3,7 @@
 # Takout Game
 
 ## Sobre o jogo
-para ler mais sobre nosso jogo, leia o [GDD](GDD.pdf)
+Para ler mais sobre nosso jogo, leia o [GDD](GDD.pdf)
 
 ## Equipe Takout
 - **Guilherme Loschiavo**
