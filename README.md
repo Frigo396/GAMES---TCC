@@ -5,7 +5,7 @@
 ## Sobre o jogo
 Para ler mais sobre nosso jogo, leia o [GDD](GDD.pdf)
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Mascote]([https://myoctocat.com/assets/images/base-octocat.svg](https://media.discordapp.net/attachments/943891066539622430/1026529388612812850/axoloto.gif))
 
 ## Equipe Takout
 - **Guilherme Loschiavo**
