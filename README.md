@@ -5,6 +5,8 @@
 ## Sobre o jogo
 Para ler mais sobre nosso jogo, leia o [GDD](GDD.pdf)
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ## Equipe Takout
 - **Guilherme Loschiavo**
 - **João Victor Rosinhole**
